@@ -2,3 +2,7 @@ name: PluginJHG
 version: 1.0
 author: JulesDeveloppeur
 main: fr.julesdeveloppeur.PluginJHG.main
+commands:
+  test:
+    description: Ceci est une commande de test
+    permission: test.use
